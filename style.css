@@ -1,6 +1,10 @@
- 
+ body{
+ backgroud: #CCCCCC
+}
       p{
         text-aling: center;
-        backgroud: #CCCCCC"
       }
    
+em stromg{
+ color: red;
+}
